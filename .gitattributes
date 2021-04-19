@@ -1,3 +1,4 @@
 *.java linguist-language=ssm
 *.cs linguist-language=ssm
 *.js linguist-language=ssm
+*.html linguist-language=ssm
